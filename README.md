@@ -6,6 +6,5 @@ deixarei apenas esse comentario aqui pra quando eu souber o que e como aprimorar
 
 ### Links Facilatadores
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) <br>
-
 [Sintaxes de Python](https://www.w3schools.com/python/python_syntax.asp) <br>
 [Sintaxe de CSS](https://www.w3schools.com/css/css_syntax.asp)

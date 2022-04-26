@@ -5,6 +5,7 @@ Repositório do Desafio de Projeto sobre Git/GitHub
 deixarei apenas esse comentario aqui pra quando eu souber o que e como aprimorar e links para sintaxes de outras linguagens
 
 ### Links Facilatadores
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Sintaxes de Python](https://www.w3schools.com/python/python_syntax.asp)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) <br>
+
+[Sintaxes de Python](https://www.w3schools.com/python/python_syntax.asp) <br>
 [Sintaxe de CSS](https://www.w3schools.com/css/css_syntax.asp)

@@ -1,0 +1,1 @@
+Para adicionar/comitar pastas e arquivos novos pelo terminal do Git use: 'git add -A' ou 'git add .'
